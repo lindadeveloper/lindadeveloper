@@ -20,12 +20,16 @@
 
 ---
 ## Scrimba Courses I've Completed
-[![Certificate](https://img.shields.io/badge/Frontend%20Developer-383838)](https://scrimba.com/u4217c86:certs;cert24zAwPPowRJgx81zpwEyoCV9kdEQSCPobBTwe)
-[![Certificate](https://img.shields.io/badge/Advanced%20React-2196b0)](https://scrimba.com/u4217c86:certs;cert2JbLs3qgBCH5LHyQEaSKoXA68gKCM4t36po7Uq)
+- <a href="https://scrimba.com/u4217c86:certs;cert24zAwPPowRJgx81zpwEyoCV9kdEQSCPobBTwe" target="_blank">Frontend Developer Path Certificate</a>
+- <a href="https://scrimba.com/u4217c86:certs;cert2JbLs3qgBCH5LHyQEaSKoXA68gKCM4t36po7Uq" target="_blank">Advanced React Certificate</a>
 
-## Coursera Course I've Completed
-[![Certificate](https://img.shields.io/badge/Google%20UX%20UI%20-%20%234285F4)](https://coursera.org/share/d6ab578b6ecb3ccdb4fb500a1dc0b433)
+## UX UI Course I've Completed
+- <a href="https://coursera.org/share/d6ab578b6ecb3ccdb4fb500a1dc0b433" target="_blank">Google UX Certificate</a>
+
+## Udacity Course I've Completed
+This course mostly focuses on using Python
+- <a href="www.udacity.com/certificate/e/ee2656d4-3b61-11ef-a234-93027758fbeb" target="_blank">Intro to Programming Certificate</a>
 
 ### 💬 Let's Connect!
-Let's make your vision a reality! Feel free to contact me for any inquiries!
-I'm currently open for work🙂
+Let's make your vision a reality! Feel free to [Contact Me](mailto:lindacodesdev@gmail.com) for any inquiries!
+I am open for work🙂
