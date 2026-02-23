@@ -4,6 +4,7 @@
 - 🌱 What I'm doing right now: Working on becoming a full stack developer
 - 💖 What I care about: Clean code, accessible & user friendly UX UI design
 - 🧩 Tech I'm using: HTML, CSS, JavaScript, React, Python
+- ⭐ My other skills: I have a strong eye for design & I am knowledgable in E-commerce 
 - 🐶 Fun fact: I have corgi (@LoveyTheCorgi on instagram)
 
 ## 🛠️ My Toolkit
