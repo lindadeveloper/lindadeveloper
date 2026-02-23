@@ -28,7 +28,7 @@
 
 ## Udacity Course I've Completed
 This course mostly focuses on using Python
-- <a href="www.udacity.com/certificate/e/ee2656d4-3b61-11ef-a234-93027758fbeb" target="_blank">Intro to Programming Certificate</a>
+- <a href="https://udacity.com/certificate/e/ee2656d4-3b61-11ef-a234-93027758fbeb" target="_blank">Intro to Programming Certificate</a>
 
 ### 💬 Let's Connect!
 Let's make your vision a reality! Feel free to [Contact Me](mailto:lindacodesdev@gmail.com) for any inquiries!
