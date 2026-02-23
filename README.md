@@ -16,7 +16,7 @@
 ### Connect with me
 [My LinkedIn](https://www.linkedin.com/in/lindadeveloper/) • [My Website](https://www.lindadev.com/)
 
-[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)]([https://scrimba.com/scrimbassadors](https://scrimba.com/?via=u4217c86))
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u4217c86)
 
 ---
 ## Scrimba Courses I've Completed
