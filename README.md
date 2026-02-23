@@ -24,9 +24,9 @@
 - <a href="https://scrimba.com/u4217c86:certs;cert2JbLs3qgBCH5LHyQEaSKoXA68gKCM4t36po7Uq" target="_blank">Advanced React Certificate</a>
 
 ## Other Courses I've Completed 
-- This course focuses on accessiblilty and user friendly design using Figma
+- This Google UX course focuses on accessibility and user friendly design using Figma
 <a href="https://coursera.org/share/d6ab578b6ecb3ccdb4fb500a1dc0b433" target="_blank">Google UX Certificate</a>
-- This course mostly focuses on using Python
+- This Udacity course mostly focuses on using Python
 <a href="https://udacity.com/certificate/e/ee2656d4-3b61-11ef-a234-93027758fbeb" target="_blank">Intro to Programming Certificate</a>
 
 
