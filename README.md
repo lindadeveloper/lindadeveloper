@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Python%20-%20%23306998?style=for-the-badge)
 
 ### Connect with me
-[My LinkedIn](https://www.linkedin.com/in/lindadeveloper/) • [My Website](https://www.lindadev.com/)
+[My LinkedIn](https://www.linkedin.com/in/lindadeveloper/) • [My Website](https://www.lindadev.com/) (work in progress)
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u4217c86)
 
@@ -23,12 +23,12 @@
 - <a href="https://scrimba.com/u4217c86:certs;cert24zAwPPowRJgx81zpwEyoCV9kdEQSCPobBTwe" target="_blank">Frontend Developer Path Certificate</a>
 - <a href="https://scrimba.com/u4217c86:certs;cert2JbLs3qgBCH5LHyQEaSKoXA68gKCM4t36po7Uq" target="_blank">Advanced React Certificate</a>
 
-## UX UI Course I've Completed
-- <a href="https://coursera.org/share/d6ab578b6ecb3ccdb4fb500a1dc0b433" target="_blank">Google UX Certificate</a>
+## Other Courses I've Completed 
+- This course focuses on accessiblilty and user friendly design using Figma
+<a href="https://coursera.org/share/d6ab578b6ecb3ccdb4fb500a1dc0b433" target="_blank">Google UX Certificate</a>
+- This course mostly focuses on using Python
+<a href="https://udacity.com/certificate/e/ee2656d4-3b61-11ef-a234-93027758fbeb" target="_blank">Intro to Programming Certificate</a>
 
-## Udacity Course I've Completed
-This course mostly focuses on using Python
-- <a href="https://udacity.com/certificate/e/ee2656d4-3b61-11ef-a234-93027758fbeb" target="_blank">Intro to Programming Certificate</a>
 
 ### 💬 Let's Connect!
 Let's make your vision a reality! Feel free to contact me for any inquiries!
