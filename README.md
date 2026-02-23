@@ -23,10 +23,6 @@
 [![Certificate](https://img.shields.io/badge/Frontend%20Developer-383838)](https://scrimba.com/u4217c86:certs;cert24zAwPPowRJgx81zpwEyoCV9kdEQSCPobBTwe)
 [![Certificate](https://img.shields.io/badge/Advanced%20React-2196b0)](https://scrimba.com/u4217c86:certs;cert2JbLs3qgBCH5LHyQEaSKoXA68gKCM4t36po7Uq)
 
-## Udacity Course I've Completed
-[![Certificate](https://img.shields.io/badge/Intro%20to%20Programming-306998)](www.udacity.com/certificate/e/ee2656d4-3b61-11ef-a234-93027758fbeb)
-This course mainly taught me Python
-
 ## Coursera Course I've Completed
 [![Certificate](https://img.shields.io/badge/Google%20UX%20UI%20-%20%234285F4)](https://coursera.org/share/d6ab578b6ecb3ccdb4fb500a1dc0b433)
 
