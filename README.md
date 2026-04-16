@@ -25,6 +25,7 @@
 ## Scrimba Courses I've Completed
 - <a href="https://scrimba.com/u4217c86:certs;cert24zAwPPowRJgx81zpwEyoCV9kdEQSCPobBTwe" target="_blank">Frontend Developer Path Certificate</a>
 - <a href="https://scrimba.com/u4217c86:certs;cert2JbLs3qgBCH5LHyQEaSKoXA68gKCM4t36po7Uq" target="_blank">Advanced React Certificate</a>
+- <a href="https://scrimba.com/u4217c86:certs;cert2ffentAFN4SDvgrudzahFgirHjr9hGAbwuKjsHq42cFxti" target="_blank">Advanced JavaScript Certificate</a>
 
 ## Other Courses I've Completed 
 - This Google UX course focuses on accessibility and user friendly design using Figma
