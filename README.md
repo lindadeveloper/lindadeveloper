@@ -2,9 +2,9 @@
 
 - 👩🏻‍💼 Who am I: I'm a Front-End Developer working towards becoming a Full Stack Engineer.
 - 🌱 What I'm doing right now:
-    - Pursuing a Bachelor of Science in Computer Science
     - Completing backend courses on Scrimba
     - Building real-world projects from scratch
+    - Pursuing a Bachelor of Science in Computer Science (starting Fall/Winter 2026)
 - 💖 What I care about: Clean code, accessible & user friendly UX UI design
 - 🧩 Tech I'm using: HTML, CSS, JavaScript, React, Python & more to come...
 - ⭐ My other skills: I have a strong eye for design & I am knowledgable in E-commerce 
